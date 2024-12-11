@@ -1,2 +1,2 @@
 # chatgptdiscordbot
-gpt bot discord
+simple discord GPT api bot 
